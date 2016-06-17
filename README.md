@@ -1,3 +1,3 @@
 # psiholjub
 
-mh-magazine-lite-child
+mh-magazine-lite-child WP theme
