@@ -1,7 +1,7 @@
   <?php mh_before_footer(); ?>
   <footer class="mh-copyright-wrap">
   	<div class="mh-container mh-container-inner clearfix">
-  		<p class="mh-copyright"><?php printf(__('Copyright &copy; %1$s | WordPress Theme by %2$s', 'mh-magazine-lite'), date("Y"), '<a href="' . esc_url('http://www.mhthemes.com/') . '" rel="nofollow">MH Themes</a>'); ?></p>
+  		<p class="mh-copyright">Psiholjub &copy; | Jer on zna odgovore na pitanja tvoje duše...</p>
   	</div>
   </footer>
   <?php mh_after_footer(); ?>
