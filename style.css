@@ -9,9 +9,9 @@
 
 /***** CUSTOM CSS *****/
 /* roditelju zamenjena #e64946 sa DarkOrange */
-
 .narandzasta-pozadina { background: DarkOrange;}
 .narandzasta-slova { color: DarkOrange;}
+.float-right {float: right;}
 
 @media screen and (max-width: 620px) {
   .mh-loop-title {margin-bottom: 10px;}
