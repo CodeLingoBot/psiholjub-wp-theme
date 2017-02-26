@@ -1,3 +1,5 @@
 # psiholjub
 
-mh-magazine-lite-child WP theme
+Psiholjub Wordpress theme. Child theme of mh-magazine-lite.
+
+
