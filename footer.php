@@ -1,7 +1,7 @@
   <?php mh_before_footer(); ?>
   <footer class="mh-copyright-wrap">
   	<div class="mh-container mh-container-inner clearfix">
-  		<p class="mh-copyright">Psiholjub &copy; | Jer on zna odgovore na sva pitanja tvoje duše | <span class="float-right">Izrada i održavanje: <a href="https://github.com/mudroljub">Damjan Pavlica</a></span></p>
+  		<p class="mh-copyright">Psiholjub &nbsp;Ψ<span class="narandzasta-slova srce">♥</span>&nbsp; Jer on zna odgovore na sva pitanja tvoje duše | <span class="float-right">Razvoj: <a href="http://skolakoda.org/">Škola koda</a></span></p>
   	</div>
   </footer>
   <?php mh_after_footer(); ?>
